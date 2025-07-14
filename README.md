@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills<br>🤝 I’m looking for help with making a good profile for landing an internship<br>🌱 I’m currently learning C-programming, Java , Data Structures and Algorithms<br>💬 Ask me about my learning journey<br>⚡ Fun fact: I'm maintaining a journal and writing my goals and progress
+🔭 I’m currently working on improving my skills<br>🤝 I’m looking for help with making a good profile for landing an internship<br>🌱 I’m currently learning C-programming, Java , Data Structures and Algorithms<br>💬 Ask me about my learning journey<br>⚡
 
 
 ## 🌐 Socials:
