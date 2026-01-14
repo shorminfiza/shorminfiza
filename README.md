@@ -1,13 +1,13 @@
-## Hi, I’m Shormin Fiza 👋
+## Hi, I’m Shormin Fiza 
 
 Computer Science undergraduate with interests in **data science and applied research**.  
 I enjoy learning by building, experimenting, and improving consistently.
 
-- 💻 Working with **C, C++, Java, Python**
-- 🌐 Comfortable with **HTML, CSS**
-- 🗄️ Familiar with **SQL & relational databases**
-- 📊 Exploring **Data Structures & Algorithms**
-- 🤖 Interested in **robotics, ML applications, and real-world problem solving**
+-  Working with **C, C++, Java, Python**
+-  Comfortable with **HTML, CSS**
+-  Familiar with **SQL & relational databases**
+-  Exploring **Data Structures & Algorithms**
+-  Interested in **robotics, ML applications, and real-world problem solving**
 
 ---
 
