@@ -1,6 +1,6 @@
 ## Hi, I’m Shormin Fiza 
 
-Computer Science undergraduate with interests in **data science and applied research**.  
+Computer Science undergraduate with interests in **robotics, data science and applied research**.  
 I enjoy learning by building, experimenting, and improving consistently.
 
 -  Working with **C, C++, Java, Python**
